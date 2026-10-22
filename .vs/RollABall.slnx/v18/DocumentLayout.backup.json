@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Daw2\\Documents\\Unity\\RollABall\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\daw2\\documents\\unity\\rollaball\\assets\\script\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\daw2\\documents\\unity\\rollaball\\assets\\script\\rotator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\rotator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rotator.cs",
+              "DocumentMoniker": "C:\\Users\\Daw2\\Documents\\Unity\\RollABall\\Assets\\Script\\Rotator.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Rotator.cs",
+              "ToolTip": "C:\\Users\\Daw2\\Documents\\Unity\\RollABall\\Assets\\Script\\Rotator.cs",
+              "RelativeToolTip": "Assets\\Script\\Rotator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T11:36:14.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\Daw2\\Documents\\Unity\\RollABall\\Assets\\Script\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\Daw2\\Documents\\Unity\\RollABall\\Assets\\Script\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Script\\PlayerController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwCYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T12:04:21.881Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
